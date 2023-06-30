@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: "cart"
-        image:  dhinesh1311/ui:v1
+        image:  dhinesh1311/ui:v2
         imagePullPolicy: Always
         ports:
         - containerPort:  1004
